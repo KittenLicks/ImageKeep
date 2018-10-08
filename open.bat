@@ -1,0 +1,1 @@
+copy /Y open.png current.png
